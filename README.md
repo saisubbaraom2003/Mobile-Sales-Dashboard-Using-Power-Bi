@@ -36,3 +36,11 @@ The **Mobile Sales Dashboard** project aims to analyze and visualize mobile sale
 
 ## **Outcome:**
 This project successfully delivers an interactive and insightful **Mobile Sales Dashboard** that helps stakeholders track sales performance, identify trends, and make data-driven decisions.
+
+## **References:**
+This project was inspired by a YouTube tutorial by **Satish Dhawale**. The tutorial can be found at: [Mobile Sales Dashboard Tutorial](https://youtu.be/znJGWMtk_EE?feature=shared). He is also available on **GitHub** for more Power BI-related content.
+
+## **Acknowledgment:**
+A huge thank you to [Satish Dhawale](https://github.com/SatishDhawale) for his valuable insights and detailed explanation in his tutorial. His guidance was instrumental in completing this project successfully.
+
+
