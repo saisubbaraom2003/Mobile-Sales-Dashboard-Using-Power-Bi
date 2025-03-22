@@ -43,4 +43,13 @@ This project was inspired by a YouTube tutorial by **Satish Dhawale**. The tutor
 ## **Acknowledgment:**
 A huge thank you to [Satish Dhawale](https://github.com/SatishDhawale) for his valuable insights and detailed explanation in his tutorial. His guidance was instrumental in completing this project successfully.
 
+## Contributing
+If you would like to contribute, feel free to fork this repository and submit a pull request.
 
+
+## Contact
+For queries or suggestions, feel free to reach out via GitHub or email.
+
+---
+**Author:** Sai Subba Rao Mahendrakar  
+**Contact Me at:** [sai.subbu.in@gmail.com](sai.subbu.in@gmail.com)
